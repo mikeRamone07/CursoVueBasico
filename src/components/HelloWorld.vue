@@ -8,7 +8,6 @@
         >vue-cli documentation</a
       >.
     </p>
-    <h3>Installed CLI Plugins</h3>
     <ul>
       <li>
         <a
